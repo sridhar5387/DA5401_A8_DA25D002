@@ -1,3 +1,3 @@
 Name: Sridhar Ramachandran <br>
 Roll Number: DA25D002 <br>
-The purpose of this work is to study the effectiveness of various ensemble models (bagging, gradient boosting and stacking). Boosting helps to reduce variance and prevent overfitting. Bagging helps to reduce bias and prevent underfitting. Stacking reduces bias as well as variance. The [bike sharing datset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) is used here. 
+The purpose of this work is to study the effectiveness of various ensemble models (bagging, gradient boosting and stacking). Boosting helps to reduce variance and prevent overfitting. Bagging helps to reduce bias and prevent underfitting. Stacking reduces bias as well as variance. The [bike sharing datset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) is used here. The number of bikes rented is the target variable. Input features include day of the week, hour, month, season, weather etc.
